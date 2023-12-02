@@ -8,3 +8,9 @@ add_executable(1_1
 
 add_executable(1_2
         01/second_star.cpp)
+
+add_executable(2_1
+        02/2_1.cpp)
+
+add_executable(2_2
+        02/2_2.cpp)
