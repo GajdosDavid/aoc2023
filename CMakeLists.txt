@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.23)
 project(aoc2023)
 
-set(CMAKE_CXX_STANDARD 17)
+set(CMAKE_CXX_STANDARD 20)
 
 add_executable(1_1
         01/first_star.cpp)
@@ -14,3 +14,9 @@ add_executable(2_1
 
 add_executable(2_2
         02/2_2.cpp)
+
+add_executable(3_1
+        03/3_1.cpp)
+
+add_executable(3_2
+        03/3_2.cpp)
