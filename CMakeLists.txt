@@ -20,3 +20,9 @@ add_executable(3_1
 
 add_executable(3_2
         03/3_2.cpp)
+
+add_executable(4_1
+        04/4_1.cpp)
+
+add_executable(4_2
+        04/4_2.cpp)
