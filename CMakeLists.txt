@@ -26,3 +26,9 @@ add_executable(4_1
 
 add_executable(4_2
         04/4_2.cpp)
+
+add_executable(5_1
+        05/5_1.cpp)
+
+add_executable(5_2
+        05/5_2.cpp)
