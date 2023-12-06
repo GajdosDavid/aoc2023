@@ -32,3 +32,9 @@ add_executable(5_1
 
 add_executable(5_2
         05/5_2.cpp)
+
+add_executable(6_1
+        06/6_1.cpp)
+
+add_executable(6_2
+        06/6_2.cpp)
