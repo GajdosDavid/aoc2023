@@ -44,3 +44,9 @@ add_executable(6_1_bruteforce
 
 add_executable(6_2_bruteforce
         06/6_2_bruteforce.cpp)
+
+add_executable(7_1
+        07/7_1.cpp)
+
+add_executable(7_2
+        07/7_2.cpp)
