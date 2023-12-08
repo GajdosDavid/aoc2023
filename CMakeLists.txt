@@ -50,3 +50,9 @@ add_executable(7_1
 
 add_executable(7_2
         07/7_2.cpp)
+
+add_executable(8_1
+        08/8_1.cpp)
+
+add_executable(8_2
+        08/8_2.cpp)
