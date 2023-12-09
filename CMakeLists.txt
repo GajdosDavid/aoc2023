@@ -56,3 +56,9 @@ add_executable(8_1
 
 add_executable(8_2
         08/8_2.cpp)
+
+add_executable(9_1
+        09/9_1.cpp)
+
+add_executable(9_2
+        09/9_2.cpp)
